@@ -1,5 +1,5 @@
-# Bash, Make, Git and GitHub #
+# Bash, Make, Git and GitHub
 
-Sat Nov 11 23:10:34 +07 2017
+Date and time:  Sat Nov 11 23:15:07 +07 2017
 
-      33
+Lines of code:  33

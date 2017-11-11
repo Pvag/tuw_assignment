@@ -1,5 +1,5 @@
 # Bash, Make, Git and GitHub
 
-Date and time:  Sat Nov 11 23:15:07 +07 2017
+**Date and time of make run**:  Sat Nov 11 23:18:17 +07 2017
 
-Lines of code:  33
+**Lines of code** (*guessinggame.sh*):  33
